@@ -97,8 +97,8 @@ pyoxidizer build --release
 |------------|--------|-------------------|----------|
 | **Nuitka** | ~8 MB | Средняя | ⭐⭐⭐ |
 | PyInstaller | ~10 MB | Средняя | ⭐⭐⭐⭐⭐ |
-| cx_Freeze | ~27 MB | Лучшая | ⭐⭐⭐⭐ |
-| PyOxidizer | ~66 MB | - | ⭐⭐ |
+| cx_Freeze | ~27 MB | Хорошая | ⭐⭐⭐⭐ |
+| PyOxidizer | ~66 MB | Самая лучшая | ⭐ |
 
 **Рекомендация:** Nuitka для минимального размера, PyInstaller для простоты.
 
