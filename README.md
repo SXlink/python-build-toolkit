@@ -1,6 +1,6 @@
 # Python Build Toolkit
 
-Сравнение инструментов сборки Python-приложений: PyInstaller, cx_Freeze, Nuitka, PyOxidizer.
+Сравнение инструментов сборки Python-приложений: PyInstaller, cx_Freeze, Nuitka, PyOxidizer. Код частично написан Opus 4.5, рефакторинг был произведен также им.
 
 ## Быстрый старт
 
