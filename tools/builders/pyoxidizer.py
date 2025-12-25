@@ -17,6 +17,8 @@ class PyOxidizerBuilder(BaseBuilder):
         return ["pyoxidizer", "--version"]
     
     def get_build_command(self, source_file: str) -> List[str]:
+        # pyoxidizer.bzl должен находиться в корне проекта
+        # build/ создаётся рядом с конфигом
         return ["pyoxidizer", "build", "--release"]
     
     def get_output_path(self) -> str:
