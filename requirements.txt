@@ -1,0 +1,5 @@
+pyinstaller>=6.0.0
+cx-freeze>=6.15.0
+nuitka>=1.8.0
+pyoxidizer>=0.24.0
+imageio>=2.37.0
